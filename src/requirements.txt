@@ -1,0 +1,4 @@
+wget
+matplotlib
+pycocotools
+flask
